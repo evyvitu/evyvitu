@@ -1,7 +1,7 @@
-# Evillyn Viturino
+# Olá, me chamo Evillyn Viturino!
 
-- Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP.  
-- Em busca de desafios que me permitam evoluir como profissional e como pessoa.  
+Minha jornada na área de desenvolvimento começou em 2023, com o curso técnico em Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy. Desde que me identifiquei com a área, ingressei na FATEC São Paulo, onde atualmente curso Análise e Desenvolvimento de Sistemas. Sigo em busca de novos desafios para expandir meus conhecimentos e aprimorar minhas habilidades.
+ 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evyvitu&theme=transparent&bg_color=00000000&border_color=FFFFFF&show_icons=true&icon_color=B22222&title_color=B22222&text_color=FFFFFF)
 
